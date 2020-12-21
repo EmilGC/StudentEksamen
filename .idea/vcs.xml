@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exam2020NogetFedt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KinoXP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Nordic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Nordic-motor-home" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/qewf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring_jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring_rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/websockets" vcs="Git" />
+  </component>
+</project>
